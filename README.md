@@ -1,5 +1,4 @@
 # Shell-Program
-## Introduction
 On this project I created a shell bash console that support most of the bash commands,
 Each command is printed with its process number.
 A program that supports parallel processes using the '&' at the end of the command.
