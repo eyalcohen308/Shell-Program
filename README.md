@@ -8,5 +8,4 @@ Examples of commands can be executed:
 3. man.
 4. cd.
 5. sleep.
-6. etc.
-each command can be executed with the '&' sign.
+etc, each command can be executed with the '&' sign.
